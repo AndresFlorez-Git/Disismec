@@ -3,7 +3,6 @@ ipython
 pandas
 vdom
 matplotlib
-tkinter
 pynput
 imageio
 scipy
