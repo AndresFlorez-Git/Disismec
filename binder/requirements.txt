@@ -1,0 +1,10 @@
+traitlets>=4.3.1
+ipython
+pandas
+vdom
+matplotlib
+tkinter
+pynput
+imageio
+scipy
+jupyterlab_launcher>=0.5.0
